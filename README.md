@@ -26,7 +26,7 @@ Display the output images
 
  
 ## Program:
-Eroding 
+### Eroding 
 ``` python
 import numpy as np
 import cv2
@@ -40,7 +40,7 @@ image_erode1=cv2.erode(img1,kernel1)
 plt.imshow(image_erode1)
 plt.axis("off")
 ```
-
+### Dilating
 ```python
 import numpy as np
 import cv2
