@@ -60,28 +60,19 @@ plt.axis("off")
 ### Display the input Image
 <br>![image](https://github.com/MeethaPrabhu/erosion-dilation/assets/119401038/69e0e823-0e09-4e67-8018-cafe7de0e979)
 
-<br>
-<br>
-<br>
-<br>
+
 <br>
 
 ### Display the Eroded Image
 <br>![image](https://github.com/MeethaPrabhu/erosion-dilation/assets/119401038/af10c9ed-d69a-47e6-a7f9-37245ea42524)
 
-<br>
-<br>
-<br>
-<br>
+
 <br>
 
 ### Display the Dilated Image
 <br>![image](https://github.com/MeethaPrabhu/erosion-dilation/assets/119401038/6e40d034-8417-4956-b233-a0bd90a989f2)
 
-<br>
-<br>
-<br>
-<br>
+
 <br>
 
 ## Result
